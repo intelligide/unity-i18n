@@ -1,0 +1,16 @@
+{
+    "name": "ArsenStudio.I18n.Editor",
+    "references": [
+        "ArsenStudio.I18n.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

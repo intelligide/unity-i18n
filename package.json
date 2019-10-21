@@ -1,0 +1,9 @@
+{
+  "name": "com.arsenstudio.i18n",
+  "version": "1.0.0",
+  "displayName": "Text Translations for Unity",
+  "unity": "2018.1",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.0.1"
+  }
+}

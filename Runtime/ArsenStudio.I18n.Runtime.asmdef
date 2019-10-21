@@ -1,0 +1,10 @@
+{
+    "name": "ArsenStudio.I18n.Runtime",
+    "references": [
+        "Unity.TextMeshPro"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
